@@ -18,7 +18,7 @@
 
 1️⃣ **Clone the scritp**  
 ```sh
-git clone https://github.com/ammarti/AWS-scripts.git
+git clone https://github.com/amartinawi/AWS-scripts.git
 cd AWS-scripts/tagging/ec2/
 ```
 
