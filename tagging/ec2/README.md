@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/51566bfa-13b8-4884-9a85-9013578aea92)📌 AWS EC2 Bulk Tagging Automation Script
+📌 AWS EC2 Bulk Tagging Automation Script
 🚀 Automate tagging for EC2 instances and all associated AWS resources across multiple regions!
 
 🔹 Features
